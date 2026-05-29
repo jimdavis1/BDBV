@@ -46,9 +46,9 @@ In the ebola viruses, transcript editing creates diversity in the glycoproteins.
 
   aaaaaacttcacaaaaa  sGP transcript (unedited)
 
- aaaaaaActtcacaaaaa  GN and GPC
+ aaaaaa**A**cttcacaaaaa  GN and GPC
 
-aaaaaaAActtcacaaaaa  ssGP
+aaaaaa**AA**cttcacaaaaa  ssGP
 
 Where the uppercase As denote new bases that are not encoded on the template strand. If you work directly from the genome sequence you should account for this in your resulting proteins.  
 
