@@ -1,7 +1,7 @@
 # BDBV
 ## This repo contains sequence data relating to the 2026 Ebola Bundibugyo outbreak
 Publicly available genomes were sourced from BV-BRC on May 28, 2026 and re-annotated with LowVan. 
-Outbreak genomes were obtained from Pathoplexus and should be considered embargoed.  Please refer to the pathoplexus website for information on redistribution.
+Outbreak genomes were obtained from [Pathoplexus](https://pathoplexus.org/ebola-bdbv/search) and are restricted.  Please refer to the pathoplexus [website](https://pathoplexus.org/about/terms-of-use/restricted-data) for the rules relating to reuse of the outbreak data.
 
 ## Repo Contents
 **/Annotated_Genomes** (New BDBV genomes from pathoplexus annotated with LowVan)
