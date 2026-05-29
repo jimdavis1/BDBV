@@ -10,7 +10,7 @@ Outbreak genomes were obtained from Pathoplexus and should be considered embargo
 
 /Alignments (fasta-formatted amino acid alignments for glycoproteins generated with mafft)
 
-/NWK_Trees (Newick-formatted tree files genereated using FastTree)
+/NWK_Trees (Newick-formatted tree files generated using FastTree)
 
 /HTML_Trees (html trees rendered from the Newick files (see below))
 
