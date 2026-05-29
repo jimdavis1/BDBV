@@ -28,7 +28,7 @@ https://jimdavis1.github.io/BDBV/HTML_Trees/sGP.html
 
 https://jimdavis1.github.io/BDBV/HTML_Trees/ssGP.html
 
-## General Remarks
+## Covered proteins
 I am currently providing alignments and trees for the following proteins
 
 **GPC**: Pre-glycoprotein polyprotein GP complex
@@ -40,3 +40,22 @@ I am currently providing alignments and trees for the following proteins
 **sGP**: Mature soluble secreted glycoprotein sGP
 
 **ssGP**: Small soluble glycoprotein ssGPs
+
+## General note on transcript editing
+In the ebola viruses, transcript editing creates diversity in the glycoproteins.  Basically, the polymerase encounters a special low-complexity motif, pauses, and inserts an extra A into the RNA transcript.  The result (more or less) looks like this:
+
+  aaaaaacttcacaaaaa  sGP transcript (unedited)
+
+ aaaaaaActtcacaaaaa  GN and GPC
+
+aaaaaaAActtcacaaaaa  ssGP
+
+Where the uppercase As denote new bases that are not encoded on the template strand. If you work directly from the genome sequence you should account for this in your resulting proteins.  
+
+
+## General remarks on data quality.
+
+On May 28, 2026, there were 15 Bundibugyo sequences in pathoplexus from the current outbreak.  10 of these were "Good" quality from LowVan and 5 were poor.  The 10 good quality strains are shown in the GPC tree.  Of these, the 5-15 and 5-16 strains still had a few X characters in their sequences.  This may impact their branching patterns. 
+
+
+
