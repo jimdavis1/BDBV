@@ -27,3 +27,16 @@ https://jimdavis1.github.io/BDBV/HTML_Trees/Gc.html
 https://jimdavis1.github.io/BDBV/HTML_Trees/sGP.html
 
 https://jimdavis1.github.io/BDBV/HTML_Trees/ssGP.html
+
+## General Remarks
+I am currently providing alignments and trees for the following proteins
+
+**GPC**: Pre-glycoprotein polyprotein GP complex
+
+**Gn**: Mature N-terminal envelope glycoprotein
+
+**Gc**: Mature C-terminal envelope glycoprotein Gc
+
+**sGP**: Mature soluble secreted glycoprotein sGP
+
+**ssGP**: Small soluble glycoprotein ssGPs
