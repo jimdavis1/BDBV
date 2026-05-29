@@ -1,0 +1,2 @@
+Contig	Segment	Copy_Num	Len	Min_Len	Max_len	AMB_Bases	Frac_AMB	Exceptions
+PP_006Y8PA.2	Single RNA Segment	1	18880	18608	19079	204	0.0108050847457627	Contig has too many ambiguous bases, Frac > 0.01

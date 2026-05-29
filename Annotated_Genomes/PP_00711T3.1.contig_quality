@@ -1,0 +1,2 @@
+Contig	Segment	Copy_Num	Len	Min_Len	Max_len	AMB_Bases	Frac_AMB	Exceptions
+PP_00711T3.1	Single RNA Segment	1	18480	18608	19079	2762	0.149458874458874	Too many HSPs for: Nucleocapsid protein;Too many HSPs for: Nucleocapsid protein;Contig is too short;Contig has too many ambiguous bases, Frac > 0.01

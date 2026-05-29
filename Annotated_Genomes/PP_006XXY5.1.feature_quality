@@ -1,0 +1,15 @@
+ID	Function	Evaluated	Prot_Len	Min_Len	Max_Len	Copy_Num	Exp_Copy_Num	Exceptions
+fig|565995.429.CDS.1	Nucleocapsid protein	1	739	625	813	1	1	
+fig|565995.429.CDS.2	RNA-dependent RNA polymerase cofactor VP35 protein	1	341	296	374	1	1	
+fig|565995.429.CDS.3	Matrix protein VP40	1	326	263	374	1	1	
+fig|565995.429.CDS.4	Soluble secreted glycoprotein sGP precursor	1	366	318	430	1	1	
+fig|565995.429.CDS.5	Transcription activator protein VP30	1	289	240	330	1	1	
+fig|565995.429.CDS.6	Nucleocapsid maturation factor VP24 protein	1	251	215	278	1	1	
+fig|565995.429.CDS.7	RNA-dependent RNA polymerase	1	2210	1989	2564	1	1	
+fig|565995.429.CDS.8	Pre-glycoprotein polyprotein GP complex	1	676	599	746	1	1	
+fig|565995.429.mat_peptide.1	Signal peptide of GPC	1	31	28	35	1	1	
+fig|565995.429.mat_peptide.2	Mature soluble secreted glycoprotein sGP	1	292	257	327	1	1	
+fig|565995.429.mat_peptide.3	Mature delta peptide viroporin and enterotoxin	1	41	30	56	1	1	
+fig|565995.429.mat_peptide.4	Mature C-terminal envelope glycoprotein Gc	1	175	147	193	1	1	
+fig|565995.429.mat_peptide.5	Mature N-terminal envelope glycoprotein Gn	1	469	412	516	1	1	
+fig|565995.429.mat_peptide.6	Small soluble glycoprotein ssGP	1	271	231	330	1	1	
