@@ -4,7 +4,7 @@
 
 A curated, alignment-anchored catalogue of **B-cell (antibody)** and **T-cell (CD8+)** epitopes on the ebolavirus glycoprotein, with epitope sequences, coordinates, source antibodies / HLA restrictions, and an explicit record of how each entry was verified.
 
-Every coordinate is in one consistent frame, every sequence is drawn from a primary source or computed from structure/alignment (never from memory), and every conformational epitope was recomputed from deposited atomic coordinates. Cells that could not be resolved are flagged rather than guessed.
+Every residue position is given in a single numbering scheme — the EBOV/Mayinga 676-aa GP sequence — so the same number refers to the same position in every row, for every species. Every epitope sequence was read directly from the curated alignment or computed from structural coordinates and cross-checked against the alignment, rather than reproduced from recollection. Cells that could not be resolved are flagged rather than guessed.
 
 > Companion spreadsheet: `Ebolavirus_GP_Epitopes.xlsx` (sheets `B_cell_epitopes`, `T_cell_epitopes`, `README`) — same content with full notes / confidence columns.
 
