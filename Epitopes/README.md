@@ -1,5 +1,9 @@
 # Ebolavirus Glycoprotein (GP) Epitope Atlas — EBOV, SUDV, BDBV, TAFV
 
+This directory contains a set of Ebola B- and T- cell epitopes taken from the literature.  The epitopes, and cross checking were done against the literature, my curated alignments in the previous directory, and PDB. However, this directory and its contents are vibe-coded, and require additional vetting. 
+---
+
+
 A curated, alignment-anchored catalogue of **B-cell (antibody)** and **T-cell (CD8+)** epitopes on the ebolavirus glycoprotein, with epitope sequences, coordinates, source antibodies/HLA restrictions, and an explicit record of how each entry was verified.
 
 Every coordinate is given in one consistent frame, every literal sequence is drawn either from a primary source or computed from structure/alignment (never from memory), and every conformational epitope was recomputed from deposited atomic coordinates. Cells that could not be resolved are flagged rather than guessed.
