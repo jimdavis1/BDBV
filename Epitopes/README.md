@@ -8,6 +8,10 @@ Every residue position is given in a single numbering scheme — the EBOV/Maying
 
 > Companion spreadsheet: `Ebolavirus_GP_Epitopes.xlsx` (sheets `B_cell_epitopes`, `T_cell_epitopes`, `README`) — same content with full notes / confidence columns.
 
+![Ebolavirus GP epitope map — antibody epitopes above the domain bar, CD8 T-cell epitopes below, in EBOV/Mayinga 676-aa numbering](Ebolavirus_GP_epitope_map.png)
+
+*Overview of epitope-bearing regions on GP. Antibody (B-cell) epitopes are shown above the domain bar and CD8 T-cell epitopes below it, colored by antigenic site; discontinuous epitopes are drawn as connected segments. A representative antibody is shown per site — the complete set is in the tables below. (Editable vector version: `Ebolavirus_GP_epitope_map.svg`.)*
+
 ---
 
 ## Conventions (read this first)
